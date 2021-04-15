@@ -7,7 +7,7 @@ I am modifying this file.
 
 ## Cloning a project
 
-A project should already exist on github. Click the green "Code" button to get its URL. Use `git clone <github-url-here>` in the terminal; this will create a folder called `github-url-here` on your machine.
+You saw how it's done
 
 ## Feature branch
 
