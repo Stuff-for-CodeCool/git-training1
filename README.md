@@ -1,3 +1,6 @@
+I am modifying this file.
+
+
 # git basics
 
 > Please see [this repo](https://github.com/Stuff-for-CodeCool/git-github-presentation/tree/advanced) for detailed explanations of the commands used
